@@ -1,0 +1,38 @@
+# <div style="color:white; background:tomato; text-align:center">header</div>
+- - - 
+normal
+*** 
+*italic*
+*** 
+**strong**
+***
+    code
+***
+> This is blockquoted text.
+>
+>Segunda linea
+***
+This is an [example link](http://example.com/).
+***
+This is an [example link](http://example.com/ "With a Title").
+***
+![alt text](https://comunidad.retorn.com/wp-content/uploads/cache/2018/09/gatitos/534533867.jpg "Gatito")
+***
+This is a guide on Markdown [Markdown][1].
+
+[1]: http://en.wikipedia.org/wiki/Markdown        "Markdown"
+***
++ One
++ Two
++ Three
+    - Nested One
+    - Nested Two
+***
+This is a paragraph. It has two sentences.
+
+This is another paragraph. It also has two sentences.
+
+otro?
+***
+<span style="color:blue"> color </span>
+***
